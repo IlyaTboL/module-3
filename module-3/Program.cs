@@ -3,15 +3,16 @@
 
     static void Main(string[] args)
     {
-       const string MyName = "Илья";
-        Console.WriteLine(MyName);
-        Console.WriteLine("\t Привет , мир!");
-        Console.WriteLine("\t Мне 28 лет");
-        Console.Write("\t Меня зовут \n Илья");
-
-        Console.WriteLine('\x23');
-        Console.WriteLine('\xE6');
+        string Name = "Илья";
+        int Age = 28;
+        bool Pet = true;
+        double Size = 44.5;
        
+        Console.WriteLine("Меня зовут " + Name);
+        Console.WriteLine($"Мне {Age} лет ");
+        Console.WriteLine($"У меня есть питомец? {Pet}.");
+        Console.WriteLine($"Мой размер обуви {Size}");
+
         Console.ReadKey();
 
     }
