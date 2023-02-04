@@ -8,6 +8,11 @@
         Console.WriteLine("\t Привет , мир!");
         Console.WriteLine("\t Мне 28 лет");
         Console.Write("\t Меня зовут \n Илья");
+
+        Console.WriteLine('\x23');
+        Console.WriteLine('\xE6');
+       
         Console.ReadKey();
+
     }
 }
