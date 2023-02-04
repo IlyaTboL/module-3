@@ -3,8 +3,7 @@
 
     static void Main(string[] args)
     {
-        string MyName;
-        MyName = "Илья";
+       const string MyName = "Илья";
         Console.WriteLine(MyName);
         Console.ReadKey();
     }
