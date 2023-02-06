@@ -13,7 +13,7 @@ class MainClass
         Console.WriteLine("Ваше имя {0} и вам {1} лет", name, age);
 
         Console.WriteLine("Какой ваш любимый день недели?");
-            DayOfWeek day = (DayOfWeek) int.Parse(Console.ReadLine());
+            DayOfWeek day = checked((DayOfWeek) int.Parse(Console.ReadLine()));
         Console.WriteLine(" Ваш любимый день {0}", day);
     }
 }
