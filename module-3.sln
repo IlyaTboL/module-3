@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaphore", "Semaphore\Semaphore.csproj", "{1D9486C8-CA29-4477-B6F2-1558AB39D913}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module3.6", "module3.6\module3.6.csproj", "{5E6323BE-C1BF-41F6-8020-C7BDB53C3A45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,12 +28,17 @@ Global
 		{1D9486C8-CA29-4477-B6F2-1558AB39D913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D9486C8-CA29-4477-B6F2-1558AB39D913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D9486C8-CA29-4477-B6F2-1558AB39D913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6323BE-C1BF-41F6-8020-C7BDB53C3A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6323BE-C1BF-41F6-8020-C7BDB53C3A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6323BE-C1BF-41F6-8020-C7BDB53C3A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6323BE-C1BF-41F6-8020-C7BDB53C3A45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1D9486C8-CA29-4477-B6F2-1558AB39D913} = {9131C910-40C6-4539-9282-4D5DC4B1BA58}
+		{5E6323BE-C1BF-41F6-8020-C7BDB53C3A45} = {9131C910-40C6-4539-9282-4D5DC4B1BA58}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {916D1521-CBE2-4EA8-8B5C-A91E47CEDC13}
