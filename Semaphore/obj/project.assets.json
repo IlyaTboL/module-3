@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Полиа\\source\\repos\\module-3\\module-3\\module-3.csproj",
-      "projectName": "module-3",
-      "projectPath": "C:\\Users\\Полиа\\source\\repos\\module-3\\module-3\\module-3.csproj",
+      "projectUniqueName": "C:\\Users\\Полиа\\source\\repos\\module-3\\Semaphore\\Semaphore.csproj",
+      "projectName": "Semaphore",
+      "projectPath": "C:\\Users\\Полиа\\source\\repos\\module-3\\Semaphore\\Semaphore.csproj",
       "packagesPath": "C:\\Users\\Полиа\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Полиа\\source\\repos\\module-3\\module-3\\obj\\",
+      "outputPath": "C:\\Users\\Полиа\\source\\repos\\module-3\\Semaphore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Полиа\\AppData\\Roaming\\NuGet\\NuGet.Config",

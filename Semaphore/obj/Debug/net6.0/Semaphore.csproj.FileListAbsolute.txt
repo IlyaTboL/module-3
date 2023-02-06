@@ -1,0 +1,5 @@
+C:\Users\Полиа\source\repos\module-3\Semaphore\obj\Debug\net6.0\Semaphore.csproj.AssemblyReference.cache
+C:\Users\Полиа\source\repos\module-3\Semaphore\obj\Debug\net6.0\Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Полиа\source\repos\module-3\Semaphore\obj\Debug\net6.0\Semaphore.AssemblyInfoInputs.cache
+C:\Users\Полиа\source\repos\module-3\Semaphore\obj\Debug\net6.0\Semaphore.AssemblyInfo.cs
+C:\Users\Полиа\source\repos\module-3\Semaphore\obj\Debug\net6.0\Semaphore.csproj.CoreCompileInputs.cache
