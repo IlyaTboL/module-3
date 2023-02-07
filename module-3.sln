@@ -10,11 +10,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решен
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaphore", "Semaphore\Semaphore.csproj", "{1D9486C8-CA29-4477-B6F2-1558AB39D913}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semaphore", "Semaphore\Semaphore.csproj", "{1D9486C8-CA29-4477-B6F2-1558AB39D913}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module3.6", "module3.6\module3.6.csproj", "{5E6323BE-C1BF-41F6-8020-C7BDB53C3A45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "module3.6", "module3.6\module3.6.csproj", "{5E6323BE-C1BF-41F6-8020-C7BDB53C3A45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "module3.7", "module3.7\module3.7.csproj", "{324F6F1D-5B03-436C-AD01-F26E297C3090}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "module3.7", "module3.7\module3.7.csproj", "{324F6F1D-5B03-436C-AD01-F26E297C3090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anketa M3.7", "Anketa M3.7\Anketa M3.7.csproj", "{3FED9170-4FAA-4C16-AA6B-D6CEA9D649D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,10 @@ Global
 		{324F6F1D-5B03-436C-AD01-F26E297C3090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{324F6F1D-5B03-436C-AD01-F26E297C3090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{324F6F1D-5B03-436C-AD01-F26E297C3090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FED9170-4FAA-4C16-AA6B-D6CEA9D649D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FED9170-4FAA-4C16-AA6B-D6CEA9D649D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FED9170-4FAA-4C16-AA6B-D6CEA9D649D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FED9170-4FAA-4C16-AA6B-D6CEA9D649D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{1D9486C8-CA29-4477-B6F2-1558AB39D913} = {9131C910-40C6-4539-9282-4D5DC4B1BA58}
 		{5E6323BE-C1BF-41F6-8020-C7BDB53C3A45} = {9131C910-40C6-4539-9282-4D5DC4B1BA58}
 		{324F6F1D-5B03-436C-AD01-F26E297C3090} = {9131C910-40C6-4539-9282-4D5DC4B1BA58}
+		{3FED9170-4FAA-4C16-AA6B-D6CEA9D649D9} = {9131C910-40C6-4539-9282-4D5DC4B1BA58}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {916D1521-CBE2-4EA8-8B5C-A91E47CEDC13}
