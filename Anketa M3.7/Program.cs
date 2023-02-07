@@ -20,9 +20,5 @@ class MainClass
         var birthdate = Console.ReadLine();
         // Вывод прлученых данных от пользователя
         Console.WriteLine(" Вас зовут {0} \n Вы родились {1} \n Вам {2} лет" , name, birthdate, age);
-
-
-
-
     }
 }
